@@ -1,1 +1,294 @@
-
+{
+  "bab": 1,
+  "judul": "مَا هٰذَا ؟",
+  "materi": [
+    {
+      "id": 1,
+      "teks": "هٰذَا مَعْهَدٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "teks": "هٰذَا مَسْجِدٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "teks": "هٰذَا مَكْتَبٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "teks": "هٰذَا مَقْصَفٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "teks": "هٰذَا كِتَابٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "teks": "هٰذَا قَلَمٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "teks": "هٰذَا مُزِيْلٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "teks": "هٰذَا مِرْسَمٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "teks": "مَا هٰذِهِ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "teks": "هٰذَهِ مَدْرَسَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "teks": "هٰذَهِ مَكْـتَبَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "teks": "هٰذَهِ غُرْفَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "teks": "هٰذَهِ حُجْرَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "teks": "هٰذَهِ كُرَّاسَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "teks": "هٰذَهِ مِسْطَرَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "teks": "هٰذَهِ مِمْحَاةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "teks": "هٰذَهِ سَبُّوْرَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "teks": "مَنْ هٰذَا ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "teks": "هٰذَا أُسْتَاذٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "teks": "هٰذَا مُوَظَّفٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "teks": "هٰذَا طَالِبٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "teks": "هٰذَا مُدِيْـرٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "teks": "مَنْ هٰذِهِ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "teks": "هٰذِهِ أُسْتَاذَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "teks": "هَذِهِ مُوَظَّفَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "teks": "هَذِهِ طَالِبَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "teks": "هَذِهِ مُدِيْـرَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "teks": "أَهَذَا قَلَـمٌ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "teks": "نَعَمْ، هٰذَا قَلَـمٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "teks": "لَا، بَلْ هٰذَا كِتَابٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "teks": "أَهٰذِهِ كُـرَّاسَةٌ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "teks": "نَعَمْ، هَذِهِ كُـرَّاسَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "teks": "لَا، بَلْ هَذِهِ سَبُّوْرَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "teks": "أَهٰذِهِ أُسْتَاذَةٌ؟",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "teks": "نَعَمْ، هَذِهِ أُسْتَاذَةٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "teks": "لَا، بَلْ هٰذَا أُسْتَاذٌ",
+      "gambar": "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/blob/main/babPertama/gambar/meja.png?raw=true",
+      "audio": [
+        "https://github.com/rubai-tv/Digital-Arabic-Learning-Board/raw/refs/heads/main/babPertama/suara/meja.mp3"
+      ]
+    }
+  ]
+}
